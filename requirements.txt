@@ -60,8 +60,6 @@ pyrsistent==0.15.4
 python-dateutil==2.8.0
 python-dotenv==0.10.3
 pytz==2019.3
-pywin32==223
-pywinpty==0.5.5
 pyzmq==18.1.0
 rsa==3.4.2
 s3transfer==0.2.1
@@ -77,6 +75,5 @@ wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==0.15.5
 widgetsnbextension==3.5.1
-wincertstore==0.2
 wrapt==1.11.2
 zipp==0.6.0
