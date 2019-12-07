@@ -75,7 +75,6 @@ dependencies:
   - python=3.7.5
   - python-dateutil=2.8.0
   - pytz=2019.3
-  - pywin32=223
   - pyzmq=18.1.0
   - qt=5.9.7
   - send2trash=1.5.0
