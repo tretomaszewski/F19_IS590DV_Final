@@ -1,4 +1,4 @@
-F2019_IS590DV_FinalProject
+F2019_IS590DV_FinalProject [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tretomaszewski/F19_IS590DV_Final/master?filepath=notebooks%2FIS590DV_Fa19_Final_Presentation.ipynb)
 ==============================
 
 Fall 2019 IS590DV Data Visualization Final Project
