@@ -81,7 +81,12 @@ target/
 !data/processed/
 data/processed/*
 data/processed/wisdm/wisdm_*.csv
-!data/processed/wisdm/[phone|watch|merged_sensors]/*
+data/processed/wisdm/*.zip
+!data/processed/wisdm/
+data/processed/wisdm/*
+!data/processed/wisdm/[phone|watch|merged_sensors]/
+!data/processed/wisdm/merged_sensors/
+data/processed/wisdm/merged_sensors/*.zip
 
 !data/raw/wisdm/raw
 /data/raw/wisdm/raw/[phone|watch]/[accel|gyro]/
